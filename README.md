@@ -22,7 +22,7 @@
 
 <li> bash install.sh </li>
 
-<li> bash mnphish.sh </li>
+<li> дараан нь bash mnphish.sh </li>
 
 <h1> Суулгах termux тушаал </h1>
 
@@ -48,4 +48,4 @@
 
 <li> bash install.sh </li>
 
-<li> bash mnphish.sh </li>
+<li> дараан нь bash mnphish.sh </li>
