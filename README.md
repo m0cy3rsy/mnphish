@@ -1,3 +1,7 @@
+<h1> >_ Termux Phishing Tool MNPHISH </h1>
+
+<img src="https://github.com/m0cy3rsy/mnphish/blob/main/sc.jpg">
+
 <h1> Суулгах </h1>
 
 <li> termux-setup-storage </li>
