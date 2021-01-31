@@ -30,11 +30,11 @@
 
 <li> cd $HOME </li>
 
-<li> apt update </li>
+<li> pkg update </li>
 
-<li> apt upgrade -y </li>
+<li> pkg upgrade -y </li>
 
-<li> apt install git -y </li>
+<li> pkg install git -y </li>
 
 <li> git clone https://github.com/m0cy3rsy/mnphish.git </li>
 
