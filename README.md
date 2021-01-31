@@ -20,7 +20,7 @@
 
 <li> ./install.sh </li>
 
-<li> Эсвэл </li>
+<li> эсвэл </li>
 
 <li> bash install.sh </li>
 
