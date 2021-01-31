@@ -1,4 +1,4 @@
-<h1> >_ Termux Phishing Tool MNPHISH </h1>
+<h1> >_ Termux & Kali Phishing Tool MNPHISH </h1>
 
 <img src="https://github.com/m0cy3rsy/mnphish/blob/main/sc.jpg">
 
